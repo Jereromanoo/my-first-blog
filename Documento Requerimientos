@@ -3,6 +3,7 @@
 Esta va a ser una plataforma en donde se permite a un usuario, comprar juegos y programas, permitiendo tener almacenados en la misma cuenta donde en la misma se depositar dinero y personalizarlo.
 También se les pone a los desarrolladores después de una confirmación de un producto facilitando la accesibilidad del mismo.
 
+
 Requerimiento:
 _Registrar usuario/nombre, DNI, fecha de nacimiento, nºsocio/teléfono, email.
 _Registrar juego/programas (nombre, genero, precio, descripción)
